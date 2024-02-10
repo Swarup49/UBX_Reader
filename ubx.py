@@ -37,4 +37,4 @@ def process_ubx_file(file_path):
         print("Delta count:", delta_count)
 
 # Example usage:
-process_ubx_file("AARAV-ENX6M_raw_20240207111548.ubx")
+process_ubx_file("m2_raw_2k03hr4.ubx.ubx")
